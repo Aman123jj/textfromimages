@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968209701954",
+    "firebase_url": "https://textre-4f6b8.firebaseio.com",
+    "project_id": "textre-4f6b8",
+    "storage_bucket": "textre-4f6b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968209701954:android:c8af41301b4c836443e1db",
+        "android_client_info": {
+          "package_name": "com.example.textre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968209701954-s00kc3v6liqq80g6d8c3l0gi0a12g94f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VgccRDhJjIE1Bpn-Sl4LzQvftzyG_ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968209701954-s00kc3v6liqq80g6d8c3l0gi0a12g94f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
